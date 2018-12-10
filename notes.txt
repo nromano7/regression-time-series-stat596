@@ -1,0 +1,34 @@
+***
+Model Diagnostics:
+
+Residuals: 
+    Notes say "plot residuals against a predictor, or fitted values, to examine whether there is any patern."
+    Which do we use?
+    Do we have to visually inspect all pairs of predictors vs residuals?
+QQ Plot
+Transformations
+Do we have to use both leverage and cooks distance?
+For cooks' distance it says D>1 suggests an influential point. So what if D<1?
+Partial Residual Plots: Do we have to visually inspect all pairs?
+
+
+Questions we can answer:
+
+What is the effect of design inputs on...
+    design outputs?
+    slg responses or ratings?
+    location of max. slg responses or ratings?
+    fe responses or ratings?
+    location of max. fe responses or ratings?
+    
+    
+
+2-span continuous steel 
+strength 1 flexure
+
+conservative design can be captured by the ratio of fe/slg
+
+Significance Tests:
+fe vs slg ratings (is there a statistically significant difference between fe and slg?)
+interior vs exterior ratio
+
